@@ -1,0 +1,6 @@
+{
+  "name": "Hub Digital de Filosofía Política: La Guerra de los Modelos",
+  "description": "Plataforma interactiva de Think Tank y laboratorio de pensamiento contemporáneo estructurado rigurosamente por los 6 roles de filosofía política.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
